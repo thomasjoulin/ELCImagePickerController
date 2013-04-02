@@ -2,13 +2,13 @@ Pod::Spec.new do |s|
     s.name = 'ELCImagePickerController'
     s.version = '0.0.3'
     s.summary = 'A Multiple Selection Image Picker.'
-    s.homepage = 'https://github.com/elc/ELCImagePickerController'
+    s.homepage = 'https://github.com/thomasjoulin/ELCImagePickerController'
     s.license = {
       :type => 'MIT',
       :file => 'README'
     }
     s.author = {'ELC Technologies' => 'http://elctech.com'}
-    s.source = {:git => 'https://github.com/elc/ELCImagePickerController.git',
+    s.source = {:git => 'https://github.com/thomasjoulin/ELCImagePickerController.git',
     			:tag => '0.0.3'
     		   }
     s.platform = :ios, '5.0'
